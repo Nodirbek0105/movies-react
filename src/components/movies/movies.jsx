@@ -13,6 +13,7 @@ export default function Movies() {
             loading,
             error
         ])
+        
     }
     searchMovie()
     // async function searchMovie(value, page = 1) {
