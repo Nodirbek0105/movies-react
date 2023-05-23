@@ -14,7 +14,7 @@ export default function Movies() {
             error
         ])
     }
-    searchMovie("hulk")
+    searchMovie()
     // async function searchMovie(value, page = 1) {
     //     try {
     //         if (document.querySelector(".counter").innerHTML === "") {
